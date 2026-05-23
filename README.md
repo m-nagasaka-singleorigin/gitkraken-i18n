@@ -24,3 +24,19 @@ This repository is a fork of https://github.com/megos/gitkraken-i18n/tree/main.
 1. Copy `strings.json` to `{locale}/strings.json`. (`{locale}` is the locale to translate)
 1. Translate `{locale}/strings.json`.
 1. Check translate [Change Language](#Change%20Language) for reference.
+
+## Updating Japanese Strings
+
+To update `ja/strings.json` from a newer GitKraken `en/strings.json`, sync the key order and generate small translation task files:
+
+```sh
+npm run sync:ja
+```
+
+Translate `tmp/translation-tasks/001.json`, then apply it back to `ja/strings.json`:
+
+```sh
+npm run apply:ja -- tmp/translation-tasks/001.json
+```
+
+Repeat this for the remaining task files. See [TRANSLATING-ja.md](TRANSLATING-ja.md) for the full Japanese workflow.
