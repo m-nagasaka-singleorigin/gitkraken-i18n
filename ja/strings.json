@@ -2454,7 +2454,7 @@
     "GKAIPreferences-StashMessageGenerationModel-Label": "GitKrakenがスタッシュメッセージ生成に使用するモデルです。",
     "GKAIPreferences-StashMessageGenerationCustomInstructionsHelp": "GitKraken AIがより良いスタッシュメッセージを作成できるよう、カスタム指示を追加します。",
     "GKAIPreferences-StashMessageGenerationCustomInstructions-Label": "カスタム指示",
-    "GKAIPreferences-StashMessageGeneration-Label": "スタッシュmessage生成",
+    "GKAIPreferences-StashMessageGeneration-Label": "スタッシュメッセージ生成",
     "GKAIPreferences-ExplainCommits-Label": "変更を説明",
     "GKAIPreferences-ExplainCommitsModel-Label": "GitKrakenが変更説明に使用するモデルです。",
     "GKAIPreferences-ExplainCommitsCustomInstructions-Label": "カスタム指示",
