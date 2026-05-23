@@ -5391,7 +5391,7 @@
     "Git-TryRemoveUserFromRemoteUrlOpenRemote": "リモートを開く",
     "Git-Invalid-Credentials": "認証情報が無効です",
 
-    "FocusView-Title": "Launchpad（ローンチパッド）",
+    "FocusView-Title": "Launchpad",
     "FocusView-ActionsWipOpenRemote": "リモートを開く：{0}",
     "FocusView-ActionsWipOpenInTab": "リポジトリを表示",
     "FocusView-WipBadge": "WIP（作業中）",
