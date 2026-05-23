@@ -2,6 +2,8 @@
 Unofficial GitKraken i18n project  
 GitKraken非公式日本語化プロジェクト
 
+このリポジトリは https://github.com/megos/gitkraken-i18n/tree/main からのForkです。
+
 ## Change Language
 
 **言語の切り替えは自己責任でお願いします。言語の切り替えによって[不具合](https://github.com/megos/gitkraken-i18n/issues?q=is%3Aissue+is%3Aopen+label%3A%22known+issue%22)が発生することが報告されています。**

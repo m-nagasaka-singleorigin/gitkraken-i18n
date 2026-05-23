@@ -1,6 +1,8 @@
 # gitkraken-i18n
 Unofficial GitKraken i18n project
 
+This repository is a fork of https://github.com/megos/gitkraken-i18n/tree/main.
+
 ## Contents
 - [Japanese](README-ja.md)
 
