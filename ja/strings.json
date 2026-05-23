@@ -2469,8 +2469,8 @@
     "GKAIPreferences-ConflictResolutionCustomInstructions-Label": "カスタム指示",
     "GKAIPreferences-ConflictResolutionCustomInstructionsHelp": "GitKraken AIが競合をより良く自動解決できるよう、カスタム指示を追加します。",
 
-    "AI-Template-RespondInLanguage-Label": "＜language＞で応答",
-    "AI-Template-RespondInLanguage-Text": "＜language＞で応答してください。",
+    "AI-Template-RespondInLanguage-Label": "<language>で応答",
+    "AI-Template-RespondInLanguage-Text": "<language>で応答してください。",
     "AI-Template-Concise-Label": "回答を簡潔にする",
     "AI-Template-Concise-Text": "すべての回答を簡潔で要点のあるものにし、最大1〜2文にします。",
     "AI-Template-ImperativeMood-Label": "命令形を使用",
