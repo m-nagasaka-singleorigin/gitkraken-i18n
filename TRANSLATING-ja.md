@@ -25,6 +25,7 @@ node scripts/sync-ja-strings.js --ja-source=HEAD:ja/strings.json
 翻訳時の注意:
 
 - `<%= value %>` や `{0}` などの変数はそのまま残す
+- 英語のメニュー文言に含まれる `&` はアクセスキーなので、日本語では「リポジトリを開く（&O）」のように末尾へ残す
 - push は「プッシュ」、pull は「プル」、fetch は「フェッチ」のように、Git利用者に自然なカタカナ表記を使う
 - GitFlow などの専門用語は無理に翻訳しない
 - GitクライアントのUI文言として短く自然にする
