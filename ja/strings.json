@@ -107,8 +107,8 @@
     "OpenFavorite8": "お気に入りリポジトリ8を開く",
     "OpenFavorite9": "お気に入りリポジトリ9を開く",
 
-    "ShowDetailPanel": "commitの詳細を表示",
-    "ShowLeftPanel": "左のパネルを表示",
+    "ShowDetailPanel": "コミットの詳細を表示",
+    "ShowLeftPanel": "左パネルを表示",
     "ShowToolbar": "ツールバーを表示",
     "ShowTerminalPanel": "ターミナルパネルを表示",
 
@@ -3010,7 +3010,7 @@
     "View-AutoUpdate-SomethingWentWrong": "失敗しました",
     "View-AutoUpdate-UpdateFailedToDownload": "アップデートのダウンロードに失敗しました",
     "View-KeyBindings": "キーボードショートカット",
-    "View-ToggleLeftPanel": "左のパネルの切り替え",
+    "View-ToggleLeftPanel": "左パネルの切り替え",
     "View-ToggleDetailPanel": "コミットの詳細表示を切り替える",
     "View-ToggleTerminalPanel": "ターミナルパネルを切り替え",
     "View-ZoomDown": "縮小",
